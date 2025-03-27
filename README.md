@@ -4,20 +4,24 @@ The increasing demand for renewable energy sources has positioned solar power as
 
 To address this challenge, this project focuses on optimizing solar power production and enhancing system performance. 
 
-Business Problem: Frequent fluctuations in energy output due to variable environmental conditions and system influences are limiting optimal solar power generation.
-Business Objective: Maximize power production and performance of system.
-Business Constraint: Minimize operational costs.
+# Business Problem
+Frequent fluctuations in energy output due to variable environmental conditions and system influences are limiting optimal solar power generation.
 
-#  Success Criteria:-
--Business Success Criteria: achieve profit increase of 20% to 30%.
--Economic Success Criteria: increase revenue by at least 20L to 30L
+# Business Objective
+Maximize power production and performance of system.
+
+# Business Constraint
+Minimize operational costs.
+
+#  Success Criteria
+Business Success Criteria: achieve profit increase of 20% to 30%.
+Economic Success Criteria: increase revenue by at least 20L to 30L
 
 
-#  Data Storage, Cleaning, Preprocessing and Visualization:-
+# Solar Power Project Architecture
+https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Solar%20Power%20Architecture.jpg
 
-Solar Power Project Architecture - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Solar%20Power%20Architecture.jpg
-
-#  Dataset used:-
+#  Dataset used
 https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Inverter%20dataset.csv
 https://github.com/namit-rai/Solar-Power-Optimization/blob/main/WMS%20Report.csv
 
