@@ -19,5 +19,6 @@ Data Processing and Cleaning using Python - https://github.com/namit-rai/Solar-P
 
 Data Processing and Cleaning using SQL - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Solar_Power.sql
 
-Data Visualization using Power BI - 
+Data Visualization using Power BI Dashboard - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Solar%20Power%20Optimization.pbix
+Final page - 
 
