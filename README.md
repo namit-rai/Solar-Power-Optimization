@@ -13,5 +13,5 @@ Success Criteria:-
 -Economic Success Criteria: increase revenue by at least 20L to 30L
 
 
-Dataset used- 
+Dataset used- https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Inverter%20dataset.csv, 
 
