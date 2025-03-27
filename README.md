@@ -17,5 +17,7 @@ Dataset used - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/I
 
 Data Processing and Cleaning using Python - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/solar%20power.py
 
-Data Processing and Cleaning using SQL - 
+Data Processing and Cleaning using SQL - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Solar_Power.sql
+
+Data Visualization using Power BI - 
 
