@@ -13,16 +13,23 @@ Business Constraint: Minimize operational costs.
 -Economic Success Criteria: increase revenue by at least 20L to 30L
 
 
-#  Data Storage, Cleaning, Preprocessing and Visualization
+#  Data Storage, Cleaning, Preprocessing and Visualization:-
 
-Solar Power Project Architecture - 
+Solar Power Project Architecture - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Solar%20Power%20Architecture.jpg
 
-Dataset used - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Inverter%20dataset.csv, https://github.com/namit-rai/Solar-Power-Optimization/blob/main/WMS%20Report.csv
+#  Dataset used:-
+https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Inverter%20dataset.csv
+https://github.com/namit-rai/Solar-Power-Optimization/blob/main/WMS%20Report.csv
 
-Data Processing and Cleaning using Python - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/solar%20power.py
+#  Data Processing and Cleaning using Python
+https://github.com/namit-rai/Solar-Power-Optimization/blob/main/solar%20power.py
 
-Data Processing and Cleaning using SQL - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Solar_Power.sql
+#  Data Processing and Cleaning using SQL
+https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Solar_Power.sql
 
-Data Visualization using Power BI Dashboard - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Solar%20Power%20Optimization.pbix
-Final page - https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Final%20page%20Power%20BI.png
+#  Data Visualization using Power BI Dashboard
+https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Solar%20Power%20Optimization.pbix
+
+#  Final page
+https://github.com/namit-rai/Solar-Power-Optimization/blob/main/Final%20page%20Power%20BI.png
 
